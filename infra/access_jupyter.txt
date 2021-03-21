@@ -1,0 +1,13 @@
+1. Goto "http://13.64.174.212:8888/notebooks/Project_Notebook.ipynb" in any browser
+2. Insert password
+3. edit and save changes in the notebook. Upon saving, they'll be saved on the server
+4. To commit, we need to manually ssh to VM and run git commit/push in the repo (instructions are in ssh_cmd file's comments)
+
+Datasets:
+http://13.64.174.212:8888/tree/Datasets is the location for the dataset storage. We can directly upload from browser and reference them into the python code in jupyter notebook.
+
+Individual notebooks:
+Param:     http://13.64.174.212:8888/notebooks/DLH_Param.ipynb
+Dan:       http://13.64.174.212:8888/notebooks/DLH_Dan.ipynb
+Boshika:   http://13.64.174.212:8888/notebooks/DLH_Boshika.ipynb
+Ishan:     http://13.64.174.212:8888/notebooks/DLH_Ishan.ipynb
